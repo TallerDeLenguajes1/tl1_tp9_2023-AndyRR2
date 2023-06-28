@@ -1,4 +1,5 @@
 namespace EspacioClaseJson;
+using System.Text.Encodings.Web;
 // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
     public class Bpi
     {
